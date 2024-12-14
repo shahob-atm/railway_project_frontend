@@ -1,0 +1,21 @@
+._site_eye_container {
+  width: 60px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid;
+
+  ._site_eye_center {
+    width: 46px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 7px;
+    background-color: rgba(0, 0, 0, 0.71);
+    color: #fff;
+    cursor: pointer;
+    border: 1px solid;
+  }
+}
